@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Cloning files
+=======
+This is clone from val repository
+the animals in the forest wanted to chosse the kind
+>>>>>>> 394f4af98cf669ec9cc4f435feb0b36cee018c02
