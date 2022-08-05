@@ -7,3 +7,4 @@
 |-------------|-----------------|-----------|
 |learning devops by nexgbits| 8 | conference|
 |github lessons ongoing | lesson 8 | Ongoing |
+|github lessons ongoing | lesson 8 | Ongoing |
