@@ -6,3 +6,4 @@
 |name of books| numbers of books| meeting up|
 |-------------|-----------------|-----------|
 |learning devops by nexgbits| 8 | conference|
+|github lessons ongoing | lesson 8 | Ongoing |
